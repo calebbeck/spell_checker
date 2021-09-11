@@ -1,0 +1,2 @@
+module spell_checker {
+}
